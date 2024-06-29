@@ -1,2 +1,0 @@
-# ConfuseHelper
-js confuse helper
