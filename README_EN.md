@@ -1,5 +1,5 @@
 # ConfuseHelper
-js confuse helper, jsconfuse, H5 game confuse，js confuse command utils,js code optimize
+js confuse helper, jsconfuse, H5 game confuse，js confuse command utils,js code optimize,javascript confusion,javascript confusion,js confuser
 
 Supported Platforms:
 
@@ -20,5 +20,5 @@ Security protection of large-scale website source code.
 Algorithm encryption and protection services.
 
 Chinese Version
-
+official website: https://www.acoolcode.com
 [Click here to view the Chinese version](README_CN.md)
